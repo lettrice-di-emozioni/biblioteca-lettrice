@@ -24,3 +24,14 @@ body.nav-open .content {
   margin-left: 0 !important;
   filter: blur(2px);
 }
+
+/* Sfondo immagine per il tema dark */
+body.theme-dark {
+  background-color: var(--background-primary);
+  background-image:
+    linear-gradient(rgba(20, 18, 18, 0.86), rgba(20, 18, 18, 0.86)),
+    url('/img/user/Immagini%20banner/banner%208.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center top;
+}
