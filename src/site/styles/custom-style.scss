@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+
 body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
@@ -9,7 +12,9 @@ body {
     //  }
     //  h1 {
     //   color: black;
-    //  }
+    a[href="/"] h1 {
+    font-family: 'Sevillana', cursive;
+   }
 }
 
 /* Menu mobile - sfondo solido */
