@@ -2,30 +2,9 @@
 {"dg-publish":true,"permalink":"/le-mie-letture-estive/le-mie-letture-estive/","title":"Le mie letture estive","dg-note-properties":{"title":"Le mie letture estive","cssclass":"letture-estive"}}
 ---
 
-## Rules for the Summer
-
-![DIARIO/LIBRI/COPERTINE LIBRI/Rules for the Summer.jpg](/img/user/DIARIO/LIBRI/COPERTINE%20LIBRI/Rules%20for%20the%20Summer.jpg)
-
-📖 Pagina 22 di 576 — ██░░░░░░░░ 4%
-
----
-
-## la zolfatara
-
-![DIARIO/LIBRI/COPERTINE LIBRI/La zolfatara.jpg\|200](/img/user/DIARIO/LIBRI/COPERTINE%20LIBRI/La%20zolfatara.jpg)
-
-📖 Pagina 149 di 428 — ███░░░░░░░ 35%
-
----
-
-## Caro numero sconosciuto
-
-![DIARIO/LIBRI/COPERTINE LIBRI/Caro numero sconosciuto.jpg](/img/user/DIARIO/LIBRI/COPERTINE%20LIBRI/Caro%20numero%20sconosciuto.jpg)
-
-📖 Pagina 20 di 155 — █░░░░░░░░░ 13%
 
 
 
 
 
-
+<h2><span>La zolfatara</span></h2><span><span><span width="200" alt="DIARIO/LIBRI/COPERTINE LIBRI/Copertina la zolfatara.jpg" src="DIARIO/LIBRI/COPERTINE LIBRI/Copertina la zolfatara.jpg" class="internal-embed media-embed image-embed is-loaded"><img alt="DIARIO/LIBRI/COPERTINE LIBRI/Copertina la zolfatara.jpg" width="200" src="http://localhost/_capacitor_file_/storage/emulated/0/Biblioteca%20/DIARIO/LIBRI/COPERTINE%20LIBRI/Copertina%20la%20zolfatara.jpg"></span></span></span><p><span>📖 Pagina 428 di 428 — ██████████ 100% ✅</span></p><p><span><hr></span></p><h2><span>Caro numero sconosciuto</span></h2><span><span><span width="200" alt="DIARIO/LIBRI/COPERTINE LIBRI/Copertina caro numero sconosciuto.jpg" src="DIARIO/LIBRI/COPERTINE LIBRI/Copertina caro numero sconosciuto.jpg" class="internal-embed media-embed image-embed is-loaded"><img alt="DIARIO/LIBRI/COPERTINE LIBRI/Copertina caro numero sconosciuto.jpg" width="200" src="http://localhost/_capacitor_file_/storage/emulated/0/Biblioteca%20/DIARIO/LIBRI/COPERTINE%20LIBRI/Copertina%20caro%20numero%20sconosciuto.jpg"></span></span></span><p><span>📖 Pagina 20 di 155 — █░░░░░░░░░ 13%</span></p><p><span><hr></span></p><h2><span>Rules for the Summer</span></h2><span><span><span width="200" alt="DIARIO/LIBRI/COPERTINE LIBRI/Copertina rules for the Summer.jpg" src="DIARIO/LIBRI/COPERTINE LIBRI/Copertina rules for the Summer.jpg" class="internal-embed media-embed image-embed is-loaded"><img alt="DIARIO/LIBRI/COPERTINE LIBRI/Copertina rules for the Summer.jpg" width="200" src="http://localhost/_capacitor_file_/storage/emulated/0/Biblioteca%20/DIARIO/LIBRI/COPERTINE%20LIBRI/Copertina%20rules%20for%20the%20Summer.jpg"></span></span></span><p><span>📖 Pagina 22 di 576 — ░░░░░░░░░░ 4%</span></p><p><span><hr></span></p><h2><span>Leggere lolita Teheran</span></h2><span><span><span width="200" alt="DIARIO/LIBRI/COPERTINE LIBRI/Copertina leggera lolita Teheran.jpg" src="DIARIO/LIBRI/COPERTINE LIBRI/Copertina leggera lolita Teheran.jpg" class="internal-embed media-embed image-embed is-loaded"><img alt="DIARIO/LIBRI/COPERTINE LIBRI/Copertina leggera lolita Teheran.jpg" width="200" src="http://localhost/_capacitor_file_/storage/emulated/0/Biblioteca%20/DIARIO/LIBRI/COPERTINE%20LIBRI/Copertina%20leggera%20lolita%20Teheran.jpg"></span></span></span><p><span>📖 Pagina 33 di 379 — █░░░░░░░░░ 9%</span></p><p><span><hr></span></p>
