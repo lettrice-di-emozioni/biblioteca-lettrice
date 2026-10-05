@@ -6,7 +6,7 @@
 
 
 
- ![[banner 8.jpg\|400]]
+ ![sfondo-home.jpg\|400](/img/user/sfondo-home.jpg)
 
 
 
