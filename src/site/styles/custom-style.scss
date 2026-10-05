@@ -28,3 +28,11 @@ body.theme-dark {
   background-attachment: fixed;
   background-position: top center;
 }
+.content img,
+.content figure,
+.content p:has(> img) {
+  background: transparent !important;
+}
+body.theme-dark .content {
+  background: rgba(20, 18, 18, 0.55);
+}
