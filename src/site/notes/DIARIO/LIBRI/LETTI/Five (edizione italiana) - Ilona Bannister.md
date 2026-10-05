@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diario/libri/letti/five-edizione-italiana-ilona-bannister/","dg-note-properties":{"anno_lettura":2026,"Titolo":"Five (edizione italiana)","autore":"Ilona Bannister","genere":null,"pagine_totali":274,"Pagina_attuale":244,"cover":"[DIARIO/LIBRI/COPERTINE LIBRI/Copertina five.jpg](/img/user/DIARIO/LIBRI/COPERTINE%20LIBRI/Copertina%20five.jpg)","stato":"letto","voto":5,"Valutazione":5,"stelle":"⭐⭐⭐⭐⭐","data_inizio":"06/05/2026"}}
+{"dg-publish":true,"permalink":"/diario/libri/letti/five-edizione-italiana-ilona-bannister/","dg-note-properties":{"anno_lettura":2026,"Titolo":"Five (edizione italiana)","autore":"Ilona Bannister","genere":null,"pagine_totali":274,"Pagina_attuale":244,"cover":"[[DIARIO/LIBRI/COPERTINE LIBRI/Copertina five.jpg.md]]","stato":"letto","voto":5,"Valutazione":5,"stelle":"⭐⭐⭐⭐⭐","data_inizio":"06/05/2026"}}
 ---
 
 

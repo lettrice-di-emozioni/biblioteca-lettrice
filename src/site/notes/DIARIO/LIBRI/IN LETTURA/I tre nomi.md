@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diario/libri/in-lettura/i-tre-nomi/","dg-note-properties":{"autore":"Florence Knapp","Titolo":"I tre nomi","genere":"#famiglia","stato":"in_lettura","note-code":"0C-1X","voto":null,"anno":" 2026","cover":"[Copertina i tre nomi.jpg](/img/user/DIARIO/LIBRI/COPERTINE%20LIBRI/Copertina%20i%20tre%20nomi.jpg)","pagina_attuale":"5","pagine_totali":"320","cssclass":"citazioni_colonne"}}
+{"dg-publish":true,"permalink":"/diario/libri/in-lettura/i-tre-nomi/","dg-note-properties":{"autore":"Florence Knapp","Titolo":"I tre nomi","genere":"#famiglia","stato":"in_lettura","note-code":"0C-1X","voto":null,"anno":" 2026","cover":"[[Copertina i tre nomi.jpg]]","pagina_attuale":"5","pagine_totali":"320","cssclass":"citazioni_colonne"}}
 ---
 
 

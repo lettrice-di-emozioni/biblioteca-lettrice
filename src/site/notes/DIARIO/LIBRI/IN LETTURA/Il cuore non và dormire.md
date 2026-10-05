@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diario/libri/in-lettura/il-cuore-non-va-dormire/","dg-note-properties":{"titolo":"Il cuore non và dormire","autore":"Enrico Galliano","stato":"in_lettura","cover":"[DIARIO/LIBRI/COPERTINE LIBRI/Il cuore non và a dormire.jpg](/img/user/DIARIO/LIBRI/COPERTINE%20LIBRI/Il%20cuore%20non%20v%C3%A0%20a%20dormire.jpg)","pagine_totali":"411","pagina_attuale":"11","cssclass":"citazioni_colonne"}}
+{"dg-publish":true,"permalink":"/diario/libri/in-lettura/il-cuore-non-va-dormire/","dg-note-properties":{"titolo":"Il cuore non và dormire","autore":"Enrico Galliano","stato":"in_lettura","cover":"[[DIARIO/LIBRI/COPERTINE LIBRI/Il cuore non và a dormire.jpg]]","pagine_totali":"411","pagina_attuale":"11","cssclass":"citazioni_colonne"}}
 ---
 
 

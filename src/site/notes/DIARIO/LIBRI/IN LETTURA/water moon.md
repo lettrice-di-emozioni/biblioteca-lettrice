@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diario/libri/in-lettura/water-moon/","dg-note-properties":{"autore":" Samantha Sotto Yambao","Titolo":"water moon","genere":"#fantasy","stato":"in lettura","voto":null,"anno":" 2026","pagina_attuale":"250","pagine_totali":"368","cover":"[Copertina water moon.jpg](/img/user/DIARIO/LIBRI/COPERTINE%20LIBRI/Copertina%20water%20moon.jpg)","note-code":"GM-NF"}}
+{"dg-publish":true,"permalink":"/diario/libri/in-lettura/water-moon/","dg-note-properties":{"autore":" Samantha Sotto Yambao","Titolo":"water moon","genere":"#fantasy","stato":"in lettura","voto":null,"anno":" 2026","pagina_attuale":"250","pagine_totali":"368","cover":"[[DIARIO/LIBRI/COPERTINE LIBRI/copertina-water-moon-samantha-sotto-yambao.jpg]]","note-code":"GM-NF"}}
 ---
 
 

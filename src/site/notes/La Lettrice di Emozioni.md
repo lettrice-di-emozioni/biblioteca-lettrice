@@ -6,7 +6,7 @@
 
 
 
- ![banner 8.jpg\|400](/img/user/Immagini%20banner/banner%208.jpg)
+ ![[banner 8.jpg\|400]]
 
 
 
