@@ -30,13 +30,13 @@ body.nav-open .content {
   filter: blur(2px);
 }
 
-/* Sfondo immagine per il tema dark */
-body.theme-dark {
+/*Sfondo immagine per il tema scuro*/
+body.theme-dark{
   background-color: var(--background-primary);
-  background-image:
-    linear-gradient(rgba(20, 18, 18, 0.86), rgba(20, 18, 18, 0.86)),
-    url('/img/user/Immagini%20banner/banner%208.jpg');
+  background-image: 
+    linear-gradient(rgba(20,18,18,0.86), rgba(20,18,18,0.86)),
+    url('/img/user/Immagini%20banner/sfondo-home.jpg');
   background-size: cover;
   background-attachment: fixed;
-  background-position: center top;
+  background-position: top center;
 }
