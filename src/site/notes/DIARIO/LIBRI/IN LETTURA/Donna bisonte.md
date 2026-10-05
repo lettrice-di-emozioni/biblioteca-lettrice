@@ -3,6 +3,9 @@
 ---
 
 
+![DIARIO/LIBRI/COPERTINE LIBRI/copertina-la-donna-bisonte-dorothy-johnson.jpg](/img/user/DIARIO/LIBRI/COPERTINE%20LIBRI/copertina-la-donna-bisonte-dorothy-johnson.jpg)
+
+
 # Donna bisonte - Dorothy Johnson
 
 > **In una frase:** Il dramma dei nativi americani raccontato da una donna
