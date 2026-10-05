@@ -1,20 +1,8 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
 
-body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    a[href="/"] h1 {
-    font-family: 'Sevillana', cursive;
-   }
+/* Titolo con font Sevillana */
+a[href="/"] h1 {
+  font-family: 'Sevillana', cursive;
 }
 
 /* Menu mobile - sfondo solido */
@@ -30,11 +18,11 @@ body.nav-open .content {
   filter: blur(2px);
 }
 
-/*Sfondo immagine per il tema scuro*/
-body.theme-dark{
+/* Sfondo immagine per il tema scuro */
+body.theme-dark {
   background-color: var(--background-primary);
-    background-image: 
-    linear-gradient(rgba(20,18,18,0.86), rgba(20,18,18,0.86)),
+  background-image:
+    linear-gradient(rgba(20, 18, 18, 0.4), rgba(20, 18, 18, 0.4)),
     url('/img/user/sfondo-home.jpg');
   background-size: cover;
   background-attachment: fixed;
