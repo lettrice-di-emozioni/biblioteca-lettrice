@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diario/libri/in-lettura/la-curatrice-di-libri-antichi-1/","title":"La curatrice di libri antichi ","dg-note-properties":{"type":"book-review","title":"La curatrice di libri antichi ","author":"Cristina caboni ","genere":"Romanzo ","stato":"in lettura","valutazione":null,"date":"2026-10-29","cover":"DIARIO/LIBRI/COPERTINE LIBRI/la-curatrice-di-libri-antichi---cristina-caboni-copertina (1).webp"}}
+{"dg-publish":true,"permalink":"/diario/libri/in-lettura/la-curatrice-di-libri-antichi-1/","title":"La curatrice di libri antichi ","dg-note-properties":{"type":"book-review","title":"La curatrice di libri antichi ","author":"Cristina caboni ","genere":"Romanzo ","stato":"In lettura","valutazione":null,"date":"2026-10-29","cover":"DIARIO/LIBRI/COPERTINE LIBRI/la-curatrice-di-libri-antichi---cristina-caboni-copertina (1).webp"}}
 ---
 
 
